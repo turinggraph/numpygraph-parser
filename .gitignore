@@ -1,0 +1,5 @@
+__pypcache__
+calc.py
+Cypher/*
+!Cypher/*.py
+!*.g4
